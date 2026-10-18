@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# 노트북 실행 중 생성되는 데이터베이스 (각 노트북에서 다시 만들 수 있음)
+db/*
+!db/.gitkeep
+
+# OS / 에디터
+.DS_Store
+.vscode/
+.idea/
+.env

@@ -1,0 +1,11 @@
+solute,cu_target_power_w,alloy_target_power_w,thickness_nm,thickness_err_nm,solute_at_pct,solute_at_pct_err,grain_size_nm,grain_size_err_nm,paper_id,source
+none,200,0,58.2,1.1,0,,10.1,5.9,kim2016,kim2016 Table 1
+Nb,200,50,46.4,1.8,0.64,0.08,12.2,7.0,kim2016,kim2016 Table 1
+Nb,200,100,46.8,2.3,1.14,0.13,13.6,7.9,kim2016,kim2016 Table 1
+Nb,150,200,47.7,1.9,1.96,0.06,7.9,4.3,kim2016,kim2016 Table 1
+Nb,0,200,60.0,1.9,3.20,0.10,7.8,4.9,kim2016,kim2016 Table 1
+Fe,200,20,69.4,2.2,0.46,0.16,13.2,7.1,kim2016,kim2016 Table 1
+Fe,200,50,61.0,3.0,0.73,0.24,14.5,8.6,kim2016,kim2016 Table 1
+Fe,200,100,63.2,1.6,1.08,0.37,12.5,6.1,kim2016,kim2016 Table 1
+Fe,150,200,57.8,3.6,1.41,0.46,12.3,6.0,kim2016,kim2016 Table 1
+Fe,0,200,53.0,3.0,2.58,0.07,10.0,4.5,kim2016,kim2016 Table 1

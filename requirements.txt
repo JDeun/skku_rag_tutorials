@@ -1,0 +1,16 @@
+# Python 3.10 ~ 3.13 에서 동작합니다 (권장: 3.12). Kùzu 0.11.3 은 macOS/Windows 용 3.14 버전을 제공하지 않습니다.
+# (Jupyter 자체는 로컬에서만 따로 설치합니다: pip install jupyterlab — Colab에는 이미 있어 충돌 방지를 위해 제외)
+langchain>=1.0
+langchain-core>=1.0
+langchain-community>=0.4
+langchain-text-splitters>=1.0
+langchain-ollama>=1.0
+langchain-chroma>=1.0
+langgraph>=1.0
+chromadb>=1.0
+kuzu==0.11.3
+pymupdf>=1.24
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+networkx>=3.2
